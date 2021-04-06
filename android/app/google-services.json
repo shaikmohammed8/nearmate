@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378472489477",
+    "project_id": "nearmeet-cac10",
+    "storage_bucket": "nearmeet-cac10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378472489477:android:fa36ec5370914084c5726c",
+        "android_client_info": {
+          "package_name": "com.example.nearmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378472489477-qe2d7pfers9ruq2g6gbpr1q7ck2gjmt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nearmate",
+            "certificate_hash": "2cdb58791746708c74feed3afa43b1a148baf75d"
+          }
+        },
+        {
+          "client_id": "378472489477-84o6gvi1t2afvna1lvncfgr3nhf0547l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RcAPurJrptH0jcCTGo1Iya8KtKKvjss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378472489477-84o6gvi1t2afvna1lvncfgr3nhf0547l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
